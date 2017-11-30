@@ -45,6 +45,10 @@ p {
   width: 100%;
 }
 
+.btn-introcall {
+  font-size: 1.3em;
+}
+
 .call {
   margin-top: 2%;
   margin-bottom: 1%;
