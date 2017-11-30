@@ -79,6 +79,10 @@ p {
   font-size: 3.5em;
   }
 
+  a {
+    font-size: 1em;
+  }
+
   .nav-wrapper {
     padding: 0 1px;
   }
@@ -86,15 +90,12 @@ p {
   .responsive-img{
   margin-top: 1%;
   margin-left: 17%;
-}
+  }
 
-.btn-large {
-  font-size:1em;
-}
 
 .fotointro {
   padding-right: 5em;
-}
+  }
 
 }
 
